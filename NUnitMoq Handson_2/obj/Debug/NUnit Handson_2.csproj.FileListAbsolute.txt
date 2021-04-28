@@ -1,0 +1,7 @@
+D:\NUnit Handson_2\bin\Debug\NUnit Handson_2.exe.config
+D:\NUnit Handson_2\bin\Debug\NUnit Handson_2.exe
+D:\NUnit Handson_2\bin\Debug\NUnit Handson_2.pdb
+D:\NUnit Handson_2\obj\Debug\NUnit Handson_2.csprojAssemblyReference.cache
+D:\NUnit Handson_2\obj\Debug\NUnit Handson_2.csproj.CoreCompileInputs.cache
+D:\NUnit Handson_2\obj\Debug\NUnit Handson_2.exe
+D:\NUnit Handson_2\obj\Debug\NUnit Handson_2.pdb
